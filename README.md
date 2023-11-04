@@ -46,3 +46,5 @@ php artisan migrate
 	- make db
 	- そこからmysqlにログイン
 		- mysql -u root -psecret
+
+`EOF`
